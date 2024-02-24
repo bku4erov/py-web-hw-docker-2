@@ -1,0 +1,5 @@
+logistic/config.py
+logistic/__pycache__/
+logistic/migrations/
+stocks_products/__pycache__/
+env/
